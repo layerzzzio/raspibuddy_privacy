@@ -50,6 +50,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 - First and/or last name
 - Email address
+- Personal identifier
 - Cookies and Usage Data
 
 #### Usage Data
