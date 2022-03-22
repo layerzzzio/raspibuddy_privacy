@@ -236,4 +236,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: loic@raspiBuddy.com
+By email: loic@raspibuddy.com
